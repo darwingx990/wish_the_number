@@ -1,6 +1,6 @@
 let secretNumber = 0;
 let numbersList = [];
-let maxNumber = 3;
+let maxNumber = 20;
 
 function userTry() {
   let userNumber = parseInt(document.getElementById("userNumber").value);
